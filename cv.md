@@ -1,14 +1,13 @@
 <div align="left">
   <img src="./lng/avatar.png" alt="image" width="100px" style="float: left; margin-right: 25px; margin-top: 10px;margin-left:25px;border-radius: 5px; border: 2px solid #595858;"/>
-</div>
-
-<div align="right">
-
 
 ## Valeryia Bessonava
 ### JavaScript Programmer 
-
 </div>
+
+
+
+
 
 ##  [![Linkedin Badge](https://img.shields.io/badge/-whowouldwin-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/whowouldwin) [![Telegram Badge](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue)](https://t.me/leranetwork) [![Github Badge](https://img.shields.io/badge/-github-red?color=white&logo=github&logoColor=black)](https://github.com/whowouldwin) [![Github Badge](https://img.shields.io/badge/-discord-red?color=violet&logo=discord&logoColor=white)](https://discordapp.com/users/@whowouldwin#2891)
 
