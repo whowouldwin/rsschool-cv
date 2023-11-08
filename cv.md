@@ -18,6 +18,7 @@
 6. [x] <span> I’m currently learning: <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="30"> <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="30"> <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="30"> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30"> </span>
 
 <div style="background-color: #dad8d8;">
+
 ### <ins>Skills</ins>
 
 | Frontend          | Backend     | Other               |
@@ -32,7 +33,7 @@
 ### <ins>Work Experience</ins>
 
 #### <ins>1C Developer</ins>
-**SoftBel** | Belarus, Minsk | 08/2020 - 03/2021)
+**SoftBel** | Belarus, Minsk | 08/2020 - 03/2021
 - Developed and configured forms using the 1C 8.3 platform.
 - Delved into business logic, learning and solving accounting-related tasks.
 
@@ -56,7 +57,7 @@
 - **Repository:** [GitHub](https://github.com/whowouldwin/FlowerSearch)
 
 ### <ins>Certifications</ins>
-
+- [JS/FE PRE-SCHOOL 2023Q2 (JavaScript)](https://app.rs.school/certificate/i5yxzk4y)
 - [JS/FE PRE-SCHOOL 2022 (JavaScript)](https://app.rs.school/certificate/nqe6yxjx)
 - [LinkedIn Learning - REST APIs](https://www.linkedin.com/learning/certificates/a286742208522c52b2356ad9083fa89c9834ffafc1d32680a1d17e359332582b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BK3LRkJQAT9eRv%2BXWuMx1BA%3D%3D)
 - [LinkedIn Learning - React](https://www.linkedin.com/learning/certificates/3981cc5db073d23054dff492e36ea96b0eaf1da4583e265db96e4ecae12b14a2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BA8bJzH0oTO%2BQI3gCNiX9Wg%3D%3D)
