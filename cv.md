@@ -5,7 +5,7 @@
 ## <div align="left">Valeryia Bessonava</div>
 ### <div align="left">JavaScript Programmer</div>
 
-##  [![Linkedin Badge](https://img.shields.io/badge/-whowouldwin-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/whowouldwin), [![Telegram Badge](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue)](https://t.me/leranetwork), [![Github Badge](https://img.shields.io/badge/-github-red?color=white&logo=github&logoColor=black)](https://github.com/whowouldwin), [![Github Badge](https://img.shields.io/badge/-discord-red?color=violet&logo=discord&logoColor=white)](https://discordapp.com/users/@whowouldwin#2891)
+##  [![Linkedin Badge](https://img.shields.io/badge/-whowouldwin-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/whowouldwin) [![Telegram Badge](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue)](https://t.me/leranetwork) [![Github Badge](https://img.shields.io/badge/-github-red?color=white&logo=github&logoColor=black)](https://github.com/whowouldwin) [![Github Badge](https://img.shields.io/badge/-discord-red?color=violet&logo=discord&logoColor=white)](https://discordapp.com/users/@whowouldwin#2891)
 
 ---
 
