@@ -1,0 +1,32 @@
+:root {
+  --base-color: rgba(253, 233, 255, 0.98);
+  --bg-color: #f5cdf8;
+  --font-color: #595858;
+  --line-color: #858484;
+  --add-color: #b4b0b4;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  font-family: 'Raleway', sans-serif;
+}
+body {
+  background-color: var(--base-color);
+  width: 100%;
+  height: auto;
+  color: var(--font-color);
+}
+h3 {
+  text-transform: uppercase;
+  line-height: 2px;
+  letter-spacing: 2px;
+  font-size: 18px;
+}
+h4 {
+  font-size: 16px;
+}
+p {
+  font-size: 14px;
+}
