@@ -178,3 +178,6 @@ p {
 .rounded li a:hover::after {
   opacity: 1;
 }
+.simple {
+  list-style-type: none;
+}
