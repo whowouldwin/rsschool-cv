@@ -3,7 +3,7 @@
   --bg-color: #d0d0c9;
   --font-color: #424242;
   --line-color: #858484;
-  --add-color: #b4b0b4;
+  --add-color: #7a797a;
 }
 * {
   margin: 0;
@@ -119,4 +119,62 @@ p {
 }
 .github {
   border-radius: 50%;
+}
+.detail .years {
+  font-size: 14px;
+  color: var(--add-color);
+}
+/*rounded*/
+.rounded {
+  counter-reset: li;
+  list-style: none;
+  font-size: 0.8rem;
+  padding-left: 0.5rem;
+}
+.rounded li {
+  position: relative;
+  display: block;
+  padding: 0.4em 0.4em 0.4em 2em;
+  margin: 0.5em 0;
+  background: var(--base-color);
+  border-radius: 0.4em;
+  transition: .3s ease-out;
+}
+.rounded li a {
+  font-size: 0.8rem;
+  font-weight: normal;
+}
+.rounded li:hover {background: #E9E4E0;}
+.rounded li:hover:before {transform: rotate(360deg);}
+.rounded li:before {
+  content: counter(li);
+  counter-increment: li;
+  position: absolute;
+  left: -1.3em;
+  top: 50%;
+  margin-top: -1.3em;
+  background: var(--bg-color);
+  height: 2em;
+  width: 2em;
+  line-height: 2em;
+  border: .3em solid var(--base-color);
+  text-align: center;
+  font-weight: bold;
+  border-radius: 2em;
+  transition: all .3s ease-out;
+}
+.rounded li a::after {
+  content: 'Click me';
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  opacity: 0;
+  color: var(--bg-color);
+  background-color: var(--font-color);
+  padding: 5px 10px;
+  border-radius: 3px;
+  transition: opacity 0.3s ease;
+}
+.rounded li a:hover::after {
+  opacity: 1;
 }
