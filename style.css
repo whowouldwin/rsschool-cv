@@ -181,3 +181,23 @@ p {
 .simple {
   list-style-type: none;
 }
+.resume-footer {
+  max-width: 1280px;
+  margin: 0 auto;
+  background-color: var(--bg-color);
+  padding: 1rem 1rem;
+  box-shadow: rgba(100, 94, 100, 0.2) 0 2px 8px 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+}
+.resume-footer > * {
+  text-align: center;
+}
+.resume-footer > .years {
+  font-size: 20px;
+}
+.footer-img {
+  width: 100px;
+  position: relative;
+}
