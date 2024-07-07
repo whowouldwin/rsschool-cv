@@ -1,8 +1,8 @@
 <div align="left">
   <img src="./lng/avatar.png" alt="image" width="100px" style="float: left; margin-right: 25px; margin-top: 10px;margin-left:25px;border-radius: 5px; border: 2px solid #595858;"/>
 
-## Valeryia Bessonava
-### JavaScript Programmer 
+<h2>Valeryia Bessonava</h2>
+<h3>JavaScript Programmer</h3>
 </div>
 
 
@@ -25,13 +25,33 @@
 
 ### <ins>Skills</ins>
 
-| Frontend          | Backend     | Other               |
-|-------------------|-------------|---------------------|
-| JavaScript (ES6+) | Restful API | Git and VCS         |
-| HTML5             |             | Agile methodologies |
-| CSS3              |             |                     |
-| React.js (hooks)  |             |                     |
-
+<table>
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Other</th>
+  </tr>
+  <tr>
+    <td>JavaScript (ES6+)</td>
+    <td>Restful API</td>
+    <td>Git and VCS</td>
+  </tr>
+  <tr>
+    <td>HTML5</td>
+    <td></td>
+    <td>Agile methodologies</td>
+  </tr>
+  <tr>
+    <td>CSS3</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>React.js (hooks)</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 </div>
 
 ### <ins>Work Experience</ins>
@@ -41,14 +61,20 @@
 - Developed and configured forms using the 1C 8.3 platform.
 - Delved into business logic, learning and solving accounting-related tasks.
 
+
 ### <ins>Education</ins>
 
 #### <ins>Bachelor of Science in Programmable Mobile Systems</ins>
-| Description                                                                                                              | Years             |
-|--------------------------------------------------------------------------------------------------------------------------|-------------------|
-| **Belarusian State University of Informatics and Radioelectronics**<br/>_Bachelor's degree, Programmable mobile systems_ | 09/2017 - 03/2021 |
-| **Belarusian Academy State Aviation**<br/>_Computer Operations Specialist, Computing machines, systems, and networks_    | 09/2012 - 07/2015 |
-
+<table>
+  <tr>
+    <td><b>Belarusian State University of Informatics and Radioelectronics</b><br/><i>Bachelor's degree, Programmable mobile systems</i></td>
+    <td>09/2017 - 03/2021</td>
+  </tr>
+  <tr>
+    <td><b>Belarusian Academy State Aviation</b><br/><i>Computer Operations Specialist, Computing machines, systems, and networks</i></td>
+    <td>09/2012 - 07/2015</td>
+  </tr>
+</table>
 ### <ins>Projects</ins>
 #### BotTee: Deploy
 - **Description:** A project simulating payment and shipping (API, data management, testing).
