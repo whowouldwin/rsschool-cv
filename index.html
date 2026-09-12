@@ -14,10 +14,10 @@
             <li><a href="#about">About me</a></li>
             <li><a href="#contacts">Contacts</a></li>
             <li><a href="#skills">Skills</a></li>
-            <li><a href="#code">Code Examples</a></li>
             <li><a href="#experience">Experience</a></li>
             <li><a href="#projects">Projects</a></li>
             <li><a href="#education">Education</a></li>
+            <li><a href="#code">Code Examples</a></li>
             <li><a href="#english">English</a></li>
         </ul>
     </nav>
@@ -26,6 +26,11 @@
     <section id="about">
         <h1>Valeryia Bessonava</h1>
         <h2>Front-End Developer</h2>
+        <img
+                class="profile-photo"
+                src="assets/images/avatar.png"
+                alt="author"
+        >
         <p>
             I am a Front-End Developer with a degree in Programmable Mobile Systems.
             I enjoy turning ideas into clear and user-friendly interfaces and combining development
@@ -64,10 +69,8 @@
             <li>Vitest, Testing Library</li>
             <li>Vite</li>
             <li>Figma, AI-assisted Design, Interactive Prototyping</li>
-
         </ul>
     </section>
-    <section id="code"></section>
     <section id="experience">
         <h2>Experience</h2>
         <h3>SpitzLab — Personal Collaborative Project</h3>
@@ -102,8 +105,12 @@
                 Firestore, Tailwind CSS, Vitest
             </p>
             <ul>
-                <li>Implemented Firebase authentication with secure server-side session cookies and protected application routes</li>
-                <li>Built a server-side HTTP execution and analytics layer that records request metrics and allows users to restore and re-run previous requests</li>
+                <li>Implemented Firebase authentication with secure server-side session cookies and protected
+                    application routes
+                </li>
+                <li>Built a server-side HTTP execution and analytics layer that records request metrics and allows users
+                    to restore and re-run previous requests
+                </li>
                 <li>Implemented persistent per-user request history using Firebase Admin and Firestore.</li>
             </ul>
             <ul class="project-links">
@@ -127,7 +134,9 @@
             </p>
             <ul>
                 <li>Implemented Redux Toolkit state management for authentication and application data.</li>
-                <li>Implemented asynchronous authentication flows with createAsyncThunk, including login, logout, and request states.</li>
+                <li>Implemented asynchronous authentication flows with createAsyncThunk, including login, logout, and
+                    request states.
+                </li>
                 <li>Worked on protected routing, shopping-cart interactions, and responsive product layouts.</li>
                 <li>Configured development and testing tooling with Vite and Vitest.</li>
             </ul>
@@ -193,6 +202,28 @@
             </li>
         </ul>
     </section>
+    <section id="code">
+        <h2>Code Example</h2>
+        <h3>Sort by Height</h3>
+        <p>
+            Sorts array values while keeping positions with -1 unchanged.
+        </p>
+
+        <pre><code>function sortByHeight(arr) {
+    const filteredValues = arr.filter(item => item !== -1);
+    const sortedValues = filteredValues.sort((a, b) => a - b);
+
+    let sortedIndex = 0;
+
+    return arr.map(item => {
+        if (item === -1) {
+            return item;
+        }
+
+        return sortedValues[sortedIndex++];
+    });
+}</code></pre>
+    </section>
     <section id="english">
         <h2>English</h2>
         <p>
@@ -201,6 +232,14 @@
         </p>
     </section>
 </main>
-<footer></footer>
+<footer>
+    <a href="https://github.com/whowouldwin">
+        GitHub
+    </a>
+    <span>2026</span>
+    <a href="https://rs.school/courses/short-track">
+        <img class="logo" src="assets/images/logo.svg" alt="RS School">
+    </a>
+</footer>
 </body>
 </html>
